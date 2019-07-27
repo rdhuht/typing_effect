@@ -17,5 +17,5 @@ def write(phrase):
       pos = pos + 1 #change the letter
 
 if __name__ == "__main__":
-   write("leonardo gostoso do caralho") #type your phrase here
+   write("I like the typing effect") #type your phrase here
       
